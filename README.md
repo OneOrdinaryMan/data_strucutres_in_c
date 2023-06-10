@@ -18,6 +18,9 @@ __Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/stacks_in_c.git
 
 __Github Link➡️__ https://github.com/OneOrdinaryMan/stacks_in_c.git
 ## Queues
+__Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/queues-in-c.git
+
+__Github Link➡️__ https://github.com/OneOrdinaryMan/queues_in_c.git
 ## Linked Lists
 ## Arrays
 ## Vectors
