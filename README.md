@@ -5,7 +5,7 @@
 Standard data structures used in programming are,
 
 - [x] Stacks
-- [ ] Queues
+- [x] Queues
 - [ ] Linked Lists
 - [ ] Arrays
 - [ ] Vectors
