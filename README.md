@@ -4,7 +4,7 @@
 
 Standard data structures used in programming are,
 
-- [ ] Stacks
+- [x] Stacks
 - [ ] Queues
 - [ ] Linked Lists
 - [ ] Arrays
@@ -14,6 +14,8 @@ Standard data structures used in programming are,
 - [ ] Graphs
 
 ## Stacks
+__Gitlab Link__ (https://gitlab.com/One_Ordinary_Man/stacks_in_c.git)
+--Github Link__ (https://github.com/OneOrdinaryMan/stacks_in_c.git)
 ## Queues
 ## Linked Lists
 ## Arrays
