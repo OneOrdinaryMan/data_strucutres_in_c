@@ -1,0 +1,17 @@
+CC=gcc
+CCFLAGS=
+LINKER=$(CC) $(CCFLAGS) -O3 -o
+TARGET=main
+TARGET_DIR=target
+TARGET_FILE=$(TARGET_DIR)/$(TARGET)
+SRC_DIR=src
+SRC_FILE=$(SRC_DIR)/$(TARGET).c
+.DEFAULT_GOAL:=$(TARGET_FILE)
+$(TARGET_FILE): $(SRC_FILE) $(TARGET_DIR)
+	$(LINKER) $@ $<
+$(TARGET_DIR):
+	mkdir $@
+clean:
+	rm -r $(TARGET_DIR)
+run: $(TARGET_FILE)
+	./$<
