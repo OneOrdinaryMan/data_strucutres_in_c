@@ -27,6 +27,9 @@ There are three types of linked lists. They are,
 - [ ] Doubly linked list
 - [ ] Circular linked list
 ### Singly linked list
+__Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/singly-linked-list-in-c.git
+
+__Github Link➡️__ https://github.com/OneOrdinaryMan/singly_linked_list_in_c.git
 ### Doubly linked list
 ### Circular linked list
 ## Arrays
