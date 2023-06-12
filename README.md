@@ -37,3 +37,5 @@ __Github Link➡️__ https://github.com/OneOrdinaryMan/singly_linked_list_in_c.
 ## HashMaps
 ## Binary Trees
 ## Graphs
+# Licence
+This project is under <mark> GPL3.0 or later </mark>licence. Feel free to use the project.
