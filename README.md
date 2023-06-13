@@ -31,6 +31,9 @@ __Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/singly-linked-list-in-
 
 __Github Link➡️__ https://github.com/OneOrdinaryMan/singly_linked_list_in_c.git
 ### Doubly linked list
+__Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/doubly-linked-lists-in-c.git
+
+__Github Link➡️__ https://github.com/OneOrdinaryMan/doubly_linked_lists_in_c.git
 ### Circular linked list
 ## Arrays
 ## Vectors
