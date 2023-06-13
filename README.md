@@ -24,7 +24,7 @@ __Github Link➡️__ https://github.com/OneOrdinaryMan/queues_in_c.git
 ## Linked Lists
 There are three types of linked lists. They are,
 - [x] Singly linked list
-- [ ] Doubly linked list
+- [x] Doubly linked list
 - [ ] Circular linked list
 ### Singly linked list
 __Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/singly-linked-list-in-c.git
