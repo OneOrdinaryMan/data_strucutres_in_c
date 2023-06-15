@@ -6,7 +6,7 @@ Standard data structures used in programming are,
 
 - [x] Stacks
 - [x] Queues
-- [ ] Linked Lists
+- [x] Linked Lists
 - [ ] Arrays
 - [ ] Vectors
 - [ ] HashMaps
@@ -25,7 +25,7 @@ __Github Link➡️__ https://github.com/OneOrdinaryMan/queues_in_c.git
 There are three types of linked lists. They are,
 - [x] Singly linked list
 - [x] Doubly linked list
-- [ ] Circular linked list
+- [x] Circular linked list
 ### Singly linked list
 __Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/singly-linked-list-in-c.git
 
