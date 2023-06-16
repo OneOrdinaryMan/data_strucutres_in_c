@@ -35,7 +35,13 @@ __Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/doubly-linked-lists-in
 
 __Github Link➡️__ https://github.com/OneOrdinaryMan/doubly_linked_lists_in_c.git
 ### Circular linked list
+__Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/circular_linked_list_in_c.git
+
+__Github Link➡️__ https://github.com/OneOrdinaryMan/circular_linked_list_in_c.git
 ## Arrays
+__Gitlab Link➡️__ https://gitlab.com/One_Ordinary_Man/arrays-in-c.git
+
+__Github Link➡️__ https://github.com/OneOrdinaryMan/arrays_in_c.git
 ## Vectors
 ## HashMaps
 ## Binary Trees
